@@ -1,6 +1,6 @@
 a = 50
 b = 100
 
-c = a * b
+c = b - a
 
 print(c)
